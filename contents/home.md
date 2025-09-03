@@ -1,17 +1,24 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[Click me](https://www.history.cuhk.edu.hk/profile/luk-chi-hung-gary/)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Hello.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: <garyluk@cuhk.edu.hk>
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+BA (CUHK)\
+MPhil (HKU)\
+DPhil (Oxon)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+ - Hong Kong history
+ - Late imperial and modern Chinese history
+ - Asian maritime history
+ - Frontiers and borderlands
+ - Empires and colonialism
+ - Race and ethnicity
+ - Overseas Chinese
 
